@@ -11,9 +11,10 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**0 problems documented** &nbsp;·&nbsp; 0 Easy &nbsp;·&nbsp; 0 Medium &nbsp;·&nbsp; 0 Hard
+**1 problems documented** &nbsp;·&nbsp; 1 Easy &nbsp;·&nbsp; 0 Medium &nbsp;·&nbsp; 0 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | Easy | 2026-07-16 | [code](2026/2026-07/2026-07-16/217.md) |
 
 <!-- INDEX:END -->
