@@ -11,11 +11,12 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**3 problems documented** &nbsp;·&nbsp; 3 Easy &nbsp;·&nbsp; 0 Medium &nbsp;·&nbsp; 0 Hard
+**4 problems documented** &nbsp;·&nbsp; 3 Easy &nbsp;·&nbsp; 1 Medium &nbsp;·&nbsp; 0 Hard
 
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy | 2026-07-23 | [code](2026/2026-07/2026-07-23/1.md) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | Medium | 2026-07-23 | [code](2026/2026-07/2026-07-23/49.md) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | Easy | 2026-07-23 | [code](2026/2026-07/2026-07-23/217.md) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | Easy | 2026-07-23 | [code](2026/2026-07/2026-07-23/242.md) |
 
