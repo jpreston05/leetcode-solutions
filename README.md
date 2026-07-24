@@ -22,3 +22,5 @@ or open the solution file. To browse by date, explore the year folders.
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | Medium | 2026-07-23 | [code](2026/2026-07/2026-07-23/347.md) |
 
 <!-- INDEX:END -->
+
+credit: [@aleckshen](https://github.com/aleckshen)
