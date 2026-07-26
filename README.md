@@ -16,7 +16,7 @@ or open the solution file. To browse by date, explore the year folders.
 | # | Problem | Difficulty | Date | Solution |
 |---|---------|------------|------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy | 2026-07-23 | [code](2026/2026-07/2026-07-23/1.md) |
-| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | Medium | 2026-07-23 | [code](2026/2026-07/2026-07-23/49.md) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | Medium | 2026-07-26 | [code](2026/2026-07/2026-07-26/49.md) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | Easy | 2026-07-23 | [code](2026/2026-07/2026-07-23/217.md) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | Medium | 2026-07-25 | [code](2026/2026-07/2026-07-25/238.md) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | Easy | 2026-07-23 | [code](2026/2026-07/2026-07-23/242.md) |
