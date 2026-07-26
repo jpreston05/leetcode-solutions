@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import re
 from pathlib import Path
+from typing import Any
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 README = REPO_ROOT / "README.md"
@@ -41,9 +42,9 @@ def parse_frontmatter(path: Path) -> dict[str, str] | None:
     return fields
 
 
-def collect() -> list[dict[str, str]]:
+def collect() -> list[dict[str, Any]]:
     """Walk the repo and collect one record per solved problem (latest solve)."""
-    by_id: dict[str, dict[str, str]] = {}
+    by_id: dict[str, dict[str, Any]] = {}
     for path in REPO_ROOT.rglob("*.md"):
         if not DATE_DIR.match(path.parent.name):
             continue
@@ -57,15 +58,19 @@ def collect() -> list[dict[str, str]]:
             "difficulty": fm.get("difficulty", ""),
             "date": path.parent.name,
             "path": path.relative_to(REPO_ROOT).as_posix(),
+            "solves": 1,
         }
         prev = by_id.get(rec["id"])
         # Keep the most recent attempt if the same problem was solved twice.
         if prev is None or rec["date"] >= prev["date"]:
+            rec["solves"] = prev["solves"] + 1 if prev else 1
             by_id[rec["id"]] = rec
+        else:
+            prev["solves"] += 1
     return sorted(by_id.values(), key=lambda r: int(r["id"]))
 
 
-def build_block(records: list[dict[str, str]]) -> str:
+def build_block(records: list[dict[str, Any]]) -> str:
     counts = {"Easy": 0, "Medium": 0, "Hard": 0}
     for r in records:
         if r["difficulty"] in counts:
@@ -77,12 +82,13 @@ def build_block(records: list[dict[str, str]]) -> str:
                  f"{counts['Medium']} Medium &nbsp;·&nbsp; "
                  f"{counts['Hard']} Hard")
     lines.append("")
-    lines.append("| # | Problem | Difficulty | Date | Solution |")
-    lines.append("|---|---------|------------|------|----------|")
+    lines.append("| # | Problem | Difficulty | Solved | Last Solved | Solution |")
+    lines.append("|---|---------|------------|--------|-------------|----------|")
     for r in records:
         title = f"[{r['title']}]({r['link']})" if r["link"] else r["title"]
         lines.append(
-            f"| {r['id']} | {title} | {r['difficulty']} | {r['date']} | [code]({r['path']}) |"
+            f"| {r['id']} | {title} | {r['difficulty']} | {r['solves']}x | "
+            f"{r['date']} | [code]({r['path']}) |"
         )
     lines.append("")
     lines.append(END)
