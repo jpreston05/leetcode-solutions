@@ -19,7 +19,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | Medium | 2x | 2026-07-27 | [code](2026/2026-07/2026-07-27/36.md) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | Medium | 4x | 2026-07-26 | [code](2026/2026-07/2026-07-26/49.md) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | Easy | 4x | 2026-08-06 | [code](2026/2026-08/2026-08-06/217.md) |
-| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | Medium | 2x | 2026-07-26 | [code](2026/2026-07/2026-07-26/238.md) |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | Medium | 3x | 2026-08-06 | [code](2026/2026-08/2026-08-06/238.md) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | Easy | 3x | 2026-07-23 | [code](2026/2026-07/2026-07-23/242.md) |
 | 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) | Medium | 3x | 2026-07-28 | [code](2026/2026-07/2026-07-28/271.md) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | Medium | 4x | 2026-07-26 | [code](2026/2026-07/2026-07-26/347.md) |
