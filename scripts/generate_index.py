@@ -76,11 +76,14 @@ def build_block(records: list[dict[str, Any]]) -> str:
         if r["difficulty"] in counts:
             counts[r["difficulty"]] += 1
 
+    total_solves = sum(r["solves"] for r in records)
+
     lines = [START, ""]
     lines.append(f"**{len(records)} problems documented** &nbsp;·&nbsp; "
                  f"{counts['Easy']} Easy &nbsp;·&nbsp; "
                  f"{counts['Medium']} Medium &nbsp;·&nbsp; "
-                 f"{counts['Hard']} Hard")
+                 f"{counts['Hard']} Hard &nbsp;|&nbsp; "
+                 f"{total_solves} solves in total")
     lines.append("")
     lines.append("| # | Problem | Difficulty | Solved | Last Solved | Solution |")
     lines.append("|---|---------|------------|--------|-------------|----------|")

@@ -11,7 +11,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**8 problems documented** &nbsp;·&nbsp; 3 Easy &nbsp;·&nbsp; 5 Medium &nbsp;·&nbsp; 0 Hard
+**8 problems documented** &nbsp;·&nbsp; 3 Easy &nbsp;·&nbsp; 5 Medium &nbsp;·&nbsp; 0 Hard &nbsp;|&nbsp; 32 solves in total
 
 | # | Problem | Difficulty | Solved | Last Solved | Solution |
 |---|---------|------------|--------|-------------|----------|
