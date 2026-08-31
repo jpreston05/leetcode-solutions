@@ -11,13 +11,13 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**8 problems documented** &nbsp;·&nbsp; 3 Easy &nbsp;·&nbsp; 5 Medium &nbsp;·&nbsp; 0 Hard &nbsp;|&nbsp; 33 solves in total
+**8 problems documented** &nbsp;·&nbsp; 3 Easy &nbsp;·&nbsp; 5 Medium &nbsp;·&nbsp; 0 Hard &nbsp;|&nbsp; 34 solves in total
 
 | # | Problem | Difficulty | Solved | Last Solved | Solution |
 |---|---------|------------|--------|-------------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy | 5x | 2026-08-10 | [code](2026/2026-08/2026-08-10/1.md) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | Medium | 4x | 2026-08-31 | [code](2026/2026-08/2026-08-31/36.md) |
-| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | Medium | 4x | 2026-07-26 | [code](2026/2026-07/2026-07-26/49.md) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | Medium | 5x | 2026-08-31 | [code](2026/2026-08/2026-08-31/49.md) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | Easy | 4x | 2026-08-06 | [code](2026/2026-08/2026-08-06/217.md) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | Medium | 3x | 2026-08-06 | [code](2026/2026-08/2026-08-06/238.md) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | Easy | 4x | 2026-08-06 | [code](2026/2026-08/2026-08-06/242.md) |
