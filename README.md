@@ -11,11 +11,12 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**10 problems documented** &nbsp;·&nbsp; 4 Easy &nbsp;·&nbsp; 6 Medium &nbsp;·&nbsp; 0 Hard &nbsp;|&nbsp; 40 solves in total
+**11 problems documented** &nbsp;·&nbsp; 4 Easy &nbsp;·&nbsp; 7 Medium &nbsp;·&nbsp; 0 Hard &nbsp;|&nbsp; 41 solves in total
 
 | # | Problem | Difficulty | Solved | Last Solved | Solution |
 |---|---------|------------|--------|-------------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy | 5x | 2026-08-10 | [code](2026/2026-08/2026-08-10/1.md) |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/description/) | Medium | 1x | 2026-11-25 | [code](2026/2026-11/2026-11-25/15.md) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | Medium | 4x | 2026-08-31 | [code](2026/2026-08/2026-08-31/36.md) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | Medium | 5x | 2026-08-31 | [code](2026/2026-08/2026-08-31/49.md) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | Easy | 3x | 2026-11-24 | [code](2026/2026-11/2026-11-24/125.md) |
