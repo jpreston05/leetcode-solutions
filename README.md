@@ -11,7 +11,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**11 problems documented** &nbsp;·&nbsp; 4 Easy &nbsp;·&nbsp; 7 Medium &nbsp;·&nbsp; 0 Hard &nbsp;|&nbsp; 44 solves in total
+**11 problems documented** &nbsp;·&nbsp; 4 Easy &nbsp;·&nbsp; 7 Medium &nbsp;·&nbsp; 0 Hard &nbsp;|&nbsp; 45 solves in total
 
 | # | Problem | Difficulty | Solved | Last Solved | Solution |
 |---|---------|------------|--------|-------------|----------|
@@ -23,7 +23,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 167 | [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | Medium | 2x | 2026-11-24 | [code](2026/2026-11/2026-11-24/167.md) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | Easy | 5x | 2026-11-26 | [code](2026/2026-11/2026-11-26/217.md) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | Medium | 4x | 2026-11-25 | [code](2026/2026-11/2026-11-25/238.md) |
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | Easy | 4x | 2026-08-06 | [code](2026/2026-08/2026-08-06/242.md) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | Easy | 5x | 2026-11-26 | [code](2026/2026-11/2026-11-26/242.md) |
 | 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) | Medium | 5x | 2026-08-17 | [code](2026/2026-08/2026-08-17/271.md) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | Medium | 5x | 2026-09-01 | [code](2026/2026-09/2026-09-01/347.md) |
 
