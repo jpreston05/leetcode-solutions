@@ -11,7 +11,7 @@ or open the solution file. To browse by date, explore the year folders.
 
 <!-- INDEX:START -->
 
-**12 problems documented** &nbsp;·&nbsp; 4 Easy &nbsp;·&nbsp; 8 Medium &nbsp;·&nbsp; 0 Hard &nbsp;|&nbsp; 47 solves in total
+**12 problems documented** &nbsp;·&nbsp; 4 Easy &nbsp;·&nbsp; 8 Medium &nbsp;·&nbsp; 0 Hard &nbsp;|&nbsp; 48 solves in total
 
 | # | Problem | Difficulty | Solved | Last Solved | Solution |
 |---|---------|------------|--------|-------------|----------|
@@ -21,7 +21,7 @@ or open the solution file. To browse by date, explore the year folders.
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | Medium | 4x | 2026-08-31 | [code](2026/2026-08/2026-08-31/36.md) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | Medium | 5x | 2026-08-31 | [code](2026/2026-08/2026-08-31/49.md) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | Easy | 4x | 2026-11-27 | [code](2026/2026-11/2026-11-27/125.md) |
-| 167 | [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | Medium | 2x | 2026-11-24 | [code](2026/2026-11/2026-11-24/167.md) |
+| 167 | [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | Medium | 3x | 2026-11-28 | [code](2026/2026-11/2026-11-28/167.md) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | Easy | 5x | 2026-11-26 | [code](2026/2026-11/2026-11-26/217.md) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | Medium | 4x | 2026-11-25 | [code](2026/2026-11/2026-11-25/238.md) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | Easy | 5x | 2026-11-26 | [code](2026/2026-11/2026-11-26/242.md) |
